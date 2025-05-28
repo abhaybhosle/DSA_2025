@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/special-array-i/description/
 public class Q3_May_28_SpecialArray {
     public static boolean isSpecialArr(int arr[]){
         for(int i = 0; i < arr.length-1; i++){
